@@ -1,0 +1,167 @@
+.reg
+{
+display:block;
+text-align:center;
+font-size: 20px;
+color:#AC9E16;
+
+}
+.reg:hover
+{
+display:block;
+justify-content: center;
+align-items: center;
+float:center;	
+font-size: 20px;
+color:#CFBD16;
+  
+}
+.red
+{
+display:block;
+text-align:center;
+	
+font-size: 40px;
+color:red;
+  
+}
+.red:hover
+{
+display:block;
+justify-content: center;
+align-items: center;
+float:center;	
+font-size: 40px;
+color:#CFBD16;
+  
+}
+
+.buttonmini{
+                justify-content: center;
+		align-items: center;
+		display: inline-block;
+		float:center;	
+		justify-content: center;
+		align-items: center;
+		border: solid 2px #AC9E16;
+		width: auto;
+		height: auto;
+		background: white;
+		border-radius: 25px;
+		text-align: center;
+		color:#AC9E16;
+		font-size: 20px;
+		padding: 10px 20px 10px 20px; 
+	margin: 5px 0px 20px 0px /*верх  право низ лево  */
+	}
+.buttonmini:hover{
+	
+		justify-content: center;
+		align-items: center;
+		display: inline-block;
+		float:center;	
+		justify-content: center;
+		align-items: center;
+		border: solid 2px #CFBD16;;
+		width: auto;
+		height: auto;
+		background: white;
+		border-radius: 25px;
+		text-align: center;
+		color:#CFBD16;
+		font-size: 20px;
+		padding: 10px 20px 10px 20px; 
+	margin: 5px 0px 20px 0px /*верх  право низ лево  */
+	}
+
+
+	
+.i3{
+		justify-content: center;
+		align-items: center;
+		float:center;	
+		justify-content: center;
+		align-items: center;
+		border: solid 2px #AC9E16;
+		width: auto;
+		height: auto;
+		background: white;
+                line-height: 1.5;
+		border-radius: 25px;
+		text-align: center;
+		color:#AC9E16;
+		font-size: 20px;
+		padding: 8px 10px 10px 8px; 
+	margin: 5px  8px 20px 10px /*верх  право низ лево  */
+	}
+.i3:focus {
+		justify-content: center;
+		align-items: center;
+		float:center;	
+                line-height: 1.5;
+		justify-content: center;
+		align-items: center;
+		outline: none; /*убирает линию вокруг*/
+		border: solid 2px #CFBD16;
+		width: auto;
+		height: auto;
+		background: white;
+		border-radius: 25px;
+		text-align: center;
+		color:#CFBD16;
+		font-size: 20px;
+		padding: 8px 10px 10px 8px; 
+	margin: 5px  8px 20px 10px /*верх  право низ лево  */
+		
+	}
+.i3:hover {
+		justify-content: center;
+		align-items: center;
+		float:center;	
+		justify-content: center;
+		align-items: center;
+		outline: none; /*убирает линию вокруг*/
+		border: solid 2px #CFBD16;
+		width: auto;
+		height: auto;
+		background: white;
+		border-radius: 25px;
+		text-align: center;
+		color:#CFBD16;
+		font-size: 20px;
+		padding: 8px 10px 10px 8px; 
+	margin: 5px  8px 20px 10px /*верх  право низ лево  */
+	}
+.i4{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		float:center;	
+		justify-content: center;
+		align-items: center;
+		border: solid 0px #AC9E16;
+		width: auto;
+		height: auto;
+		background:white;
+		border-radius: 25px;
+                line-height: 2;
+		text-align: center;
+		color:#AC9E16;
+		font-size: 20px;
+		padding: 8px 10px 10px 8px; 
+	margin: 5px  0px 10px 0px /*верх  право низ лево  */
+	}
+A { 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+    display:block;
+    text-align:center;
+    color:#AC9E16;
+    font-size: 20px;
+}
+A:hover { 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+    color:#CFBD16;
+    display:block;
+    text-align:center;
+
+}
